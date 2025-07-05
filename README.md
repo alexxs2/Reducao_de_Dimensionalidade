@@ -1,2 +1,3 @@
-# -Reducao_de_Dimensionalidade
+# Redução de Dimensionalidade em Imagens para Redes Neurais
 Desafio de Projeto:  Redução de Dimensionalidade em Imagens para Redes Neurais Bootcamp BairesDev - Machine Learning Training, promovido pela plataforma DIO.
+Neste projeto, reforçou‑se a importância de compreender as features e de realizar uma preparação cuidadosa dos dados antes do treinamento. Em especial, a redução de dimensionalidade mostrou‑se fundamental: para ilustrar esse conceito, converti manualmente uma imagem RGB em tons de cinza e, em seguida, em preto e branco, sem recorrer a bibliotecas específicas. Essa experiência deixou claro como o pré‑processamento impacta diretamente na eficiência e na qualidade dos modelos treinados.
